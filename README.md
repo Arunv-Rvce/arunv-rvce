@@ -17,10 +17,10 @@ Here are some ideas to get you started:
    I am Arun a passionate developer having 4+ years of experience in developing complex large scale applications, 
    currently working as a SDE-2 in a fintech startup.
    I am very passionate about
-   ✨ _Software Architect_ ✨
-   ✨ _System Design_ ✨
-   ✨ _Data Engineering_ ✨
-   ✨ _Backend Application_ ✨
+   ✨ _Software Architect_ ✨. 
+   ✨ _System Design_ ✨. 
+   ✨ _Data Engineering_ ✨. 
+   ✨ _Backend Application_ ✨. 
 
     
 ___Thank You___
