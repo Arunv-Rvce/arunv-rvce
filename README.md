@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-    I am Arun a passionate developer having 4+ years of experience in developing complex large scale applications, 
-    currently working as a SDE-2 in a fintech startup    
-    
-    I am very passionate about
-        - ** Software Architect **
-        - ** System Design **
-        - ** Data Engineering **
-        - ** Backend Application **
+   I am Arun a passionate developer having 4+ years of experience in developing complex large scale applications, 
+   currently working as a SDE-2 in a fintech startup.
+   I am very passionate about
+   - __*Software Architect*__
+   - __*System Design*__
+   - __*Data Engineering*__
+   - __*Backend Application*__
 
     
-___Important___ Thank You
+___Thank You___
