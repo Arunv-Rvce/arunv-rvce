@@ -20,10 +20,10 @@ Here are some ideas to get you started:
     currently working as a SDE-2 in a fintech startup    
     
     I am very passionate about
-        - ***Software Architect***  
-        - ***System Design***
-        - ***Data Engineering***
-        - ***Backend Application***
+        - ** Software Architect **
+        - ** System Design **
+        - ** Data Engineering **
+        - ** Backend Application **
 
     
 ___Important___ Thank You
