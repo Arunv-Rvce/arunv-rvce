@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Arunv-Rvce/arunv-rvce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,10 +17,10 @@ Here are some ideas to get you started:
    I am Arun a passionate developer having 4+ years of experience in developing complex large scale applications, 
    currently working as a SDE-2 in a fintech startup.
    I am very passionate about
-   - __*Software Architect*__
-   - __*System Design*__
-   - __*Data Engineering*__
-   - __*Backend Application*__
+   - ✨__*Software Architect*__✨
+   - ✨__*System Design*__✨
+   - ✨__*Data Engineering*__✨
+   - ✨__*Backend Application*__✨
 
     
 ___Thank You___
