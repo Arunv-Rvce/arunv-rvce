@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+    I am Arun a passionate developer having 4+ years of experience in developing complex large scale applications. I am very passionate about
+    - **Software Architect**  
+    - **System Design**
+    - **Data Engineering**
+    - **Backend Application**
+    
+    
+    
+Thank You
