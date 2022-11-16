@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
+<a href="https://app.daily.dev/arunv"><img src="https://api.daily.dev/devcards/081033c90e7a428b8f570d4ae734b2d8.png?r=nut" width="400" alt="ARUN V's Dev Card"/></a>
    I am Arun a passionate developer having 4+ years of experience in developing complex large scale applications, 
    currently working as a SDE-2 in a fintech startup.
    I am very passionate about
